@@ -10,6 +10,7 @@ void NETWORK_RESURRECT_LOCAL_PLAYER(float x, float y, float z, float heading, BO
 
 ```
 NativeDB Added Parameter 7: Any p6
+After my testing it seems that p5 is spawn protection (player has to shoot to disable this protection)
 ```
 
 ## Parameters
@@ -17,6 +18,6 @@ NativeDB Added Parameter 7: Any p6
 * **y**: 
 * **z**: 
 * **heading**: 
-* **unk**: 
+* **spawn protection**: 
 * **changetime**: 
 
